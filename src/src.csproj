@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>dotnet-src-6DC7E776-E04F-4E70-B44A-4F1F417B468F</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+  </ItemGroup>
+</Project>
