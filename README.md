@@ -1,5 +1,5 @@
 # What is this about?
-Free game reminder for Epic Games Reminder.
+Free game reminder for Epic Games Store.
 ## Requirements
 - .Net Core SDK 3.1
 - SQL Server
